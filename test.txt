@@ -1,2 +1,4 @@
-Git is a powerful tool.
-Today is 2018.4.27
+Git is a powerful and useful tool.
+Git is free software！
+第一次使用挺好的。
+2018.4.27
